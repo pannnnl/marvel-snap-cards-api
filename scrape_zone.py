@@ -16,23 +16,32 @@ def scrape_marvel_snap_zone():
 
     soup = BeautifulSoup(response.text, 'html.parser')
     card_elements = soup.find_all('a', class_='msz-ct')
-    print(f"成功找到 {len(card_elements)} 張卡牌區塊，開始提取資料與圖片...")
+    print(f"成功找到 {len(card_elements)} 張卡牌區塊，開始提取資料與 DefId...")
     
     cards_list = []
     
     for el in card_elements:
+        data_src = el.get('data-src', '').lower()
+        
+        # 濾掉 data-src 為 "none" 的未分類/無效卡牌
+        if data_src == "none" or not data_src:
+            continue
+            
+        # 取得遊戲官方唯一識別碼 (例如 MultipleMan)
+        def_id = el.get('data-defid', '').strip()
+        
         name = el.get('data-n', '').strip().title()
         if not name:
             name_span = el.find('span', class_='msz-ct__name')
             name = name_span.get_text(strip=True) if name_span else "Unknown"
             
-        cost = el.get('data-cost', '0')
-        power = el.get('data-power', '0')
-        data_src = el.get('data-src', '').lower()
+        cost = el.get('data-c', '0')
+        power = el.get('data-p', '0')
         
         img_tag = el.find('img', class_='msz-cardimg')
         img_url = img_tag.get('src', '') if img_tag else ""
         
+        # Series 分類邏輯
         if "series-5" in data_src or "s5" in data_src:
             series = "Series 5"
         elif "series-4" in data_src or "s4" in data_src:
@@ -41,7 +50,8 @@ def scrape_marvel_snap_zone():
             series = "Series 1~3"
             
         cards_list.append({
-            "name": name,
+            "def_id": def_id,  # 新增：官方代號（用於本地對比）
+            "name": name,      # 網頁顯示名稱
             "cost": int(cost) if cost.isdigit() else 0,
             "power": power,
             "series": series,
@@ -69,6 +79,7 @@ if __name__ == "__main__":
             if s not in database["series_groups"]:
                 s = "Series 1~3"
             database["series_groups"][s].append({
+                "def_id": card["def_id"],  # 寫入 JSON
                 "name": card["name"],
                 "cost": card["cost"],
                 "power": card["power"],
@@ -79,6 +90,6 @@ if __name__ == "__main__":
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(database, f, ensure_ascii=False, indent=4)
             
-        print(f"成功！已將 {len(raw_cards)} 張卡牌分類並存入 {output_file}！")
+        print(f"成功！已將 {len(raw_cards)} 張卡牌（含 def_id 標記）存入 {output_file}！")
     else:
         print("未能成功擷取卡牌資料。")
