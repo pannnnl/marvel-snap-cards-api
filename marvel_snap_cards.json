@@ -1,0 +1,4440 @@
+{
+    "last_updated": "2026-10-16T13:22:44.235145Z",
+    "total_count": 738,
+    "series_groups": {
+        "Series 1~3": [
+            {
+                "name": "Abomination",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/abomination.webp?v=1142"
+            },
+            {
+                "name": "Absorbing Man",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/absorbing-man.webp?v=1142"
+            },
+            {
+                "name": "Acid Arrow",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/acid-arrow.webp?v=1142"
+            },
+            {
+                "name": "Adam Warlock",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adam-warlock.webp?v=1142"
+            },
+            {
+                "name": "Aero",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aero.webp?v=1142"
+            },
+            {
+                "name": "Agatha Harkness",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agatha-harkness.webp?v=1142"
+            },
+            {
+                "name": "Agent 13",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-13.webp?v=1142"
+            },
+            {
+                "name": "Agent Coulson",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-coulson.webp?v=1142"
+            },
+            {
+                "name": "Agony - Spider-Verse",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agony--spider-verse.webp?v=1142"
+            },
+            {
+                "name": "America Chavez",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/america-chavez.webp?v=1142"
+            },
+            {
+                "name": "Angel",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angel.webp?v=1142"
+            },
+            {
+                "name": "Angela",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/angela.webp?v=1142"
+            },
+            {
+                "name": "Annihilus Champion",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/annihilus-champion.webp?v=1142"
+            },
+            {
+                "name": "Ant Man",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ant-man.webp?v=1142"
+            },
+            {
+                "name": "Anti-Venom - Spider-Verse",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom--spider-verse.webp?v=1142"
+            },
+            {
+                "name": "Apocalypse",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/apocalypse.webp?v=1142"
+            },
+            {
+                "name": "Apocalypse, Celestials' Chosen",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/apocalypse-celestials-chosen.webp?v=1142"
+            },
+            {
+                "name": "Arachnid Acrobatics",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arachnid-acrobatics.webp?v=1142"
+            },
+            {
+                "name": "Armor",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/armor.webp?v=1142"
+            },
+            {
+                "name": "Arnim Zola",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arnim-zola.webp?v=1142"
+            },
+            {
+                "name": "Arthur Pendragon",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arthur-pendragon.webp?v=1142"
+            },
+            {
+                "name": "Attuma",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/attuma.webp?v=1142"
+            },
+            {
+                "name": "Baron Mordo",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/baron-mordo.webp?v=1142"
+            },
+            {
+                "name": "Basic Arrow",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/basic-arrow.webp?v=1142"
+            },
+            {
+                "name": "Bast",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bast.webp?v=1142"
+            },
+            {
+                "name": "Beast",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/beast.webp?v=1142"
+            },
+            {
+                "name": "Berserker Rage",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/berserker-rage.webp?v=1142"
+            },
+            {
+                "name": "Bishop",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bishop.webp?v=1142"
+            },
+            {
+                "name": "Black Bolt",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-bolt.webp?v=1142"
+            },
+            {
+                "name": "Black Cat",
+                "cost": 1,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-cat.webp?v=1142"
+            },
+            {
+                "name": "Black Panther",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-panther.webp?v=1142"
+            },
+            {
+                "name": "Black Panther Champion",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-panther-champion.webp?v=1142"
+            },
+            {
+                "name": "Black Widow",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-widow.webp?v=1142"
+            },
+            {
+                "name": "Blade",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blade.webp?v=1142"
+            },
+            {
+                "name": "Blue Marvel",
+                "cost": 5,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blue-marvel.webp?v=1142"
+            },
+            {
+                "name": "Bolts Of Balthakk",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bolts-of-balthakk.webp?v=1142"
+            },
+            {
+                "name": "Brand Of Shou-Lao",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/brand-of-shou-lao.webp?v=1142"
+            },
+            {
+                "name": "Brood",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/brood.webp?v=1142"
+            },
+            {
+                "name": "Broodling",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/broodling.webp?v=1142"
+            },
+            {
+                "name": "Bucky Barnes",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bucky-barnes.webp?v=1142"
+            },
+            {
+                "name": "Bug",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bug.webp?v=1142"
+            },
+            {
+                "name": "Cable",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cable.webp?v=1142"
+            },
+            {
+                "name": "Cap'S Shield",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/caps-shield.webp?v=1142"
+            },
+            {
+                "name": "Captain America",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-america.webp?v=1142"
+            },
+            {
+                "name": "Captain America Champion",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-america-champion.webp?v=1142"
+            },
+            {
+                "name": "Captain Britain",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-britain.webp?v=1142"
+            },
+            {
+                "name": "Captain Marvel",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-marvel.webp?v=1142"
+            },
+            {
+                "name": "Captainamericaavengers",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captainamericaavengers.webp?v=1142"
+            },
+            {
+                "name": "Carnage",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage.webp?v=1142"
+            },
+            {
+                "name": "Carnage Champion",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/carnage-champion.webp?v=1142"
+            },
+            {
+                "name": "Celestial Empowerment",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/celestial-empowerment.webp?v=1142"
+            },
+            {
+                "name": "Cerebro",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cerebro.webp?v=1142"
+            },
+            {
+                "name": "Chimichanga",
+                "cost": 0,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/chimichanga.webp?v=1142"
+            },
+            {
+                "name": "Cloak",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cloak.webp?v=1142"
+            },
+            {
+                "name": "Clobberin' Time",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clobberin-time.webp?v=1142"
+            },
+            {
+                "name": "Colleen Wing",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colleen-wing.webp?v=1142"
+            },
+            {
+                "name": "Colossus",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colossus.webp?v=1142"
+            },
+            {
+                "name": "Cosmo",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmo.webp?v=1142"
+            },
+            {
+                "name": "Council Of Reeds",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/council-of-reeds.webp?v=1142"
+            },
+            {
+                "name": "Crimson Behemoth",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crimson-behemoth.webp?v=1142"
+            },
+            {
+                "name": "Crossbones",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crossbones.webp?v=1142"
+            },
+            {
+                "name": "Crystal",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crystal.webp?v=1142"
+            },
+            {
+                "name": "Cyclops",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops.webp?v=1142"
+            },
+            {
+                "name": "Cyclops - X-Men",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops--x-men.webp?v=1142"
+            },
+            {
+                "name": "Cyclops Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cyclops-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Dagger",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dagger.webp?v=1142"
+            },
+            {
+                "name": "Daredevil",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daredevil.webp?v=1142"
+            },
+            {
+                "name": "Dazzler",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dazzler.webp?v=1142"
+            },
+            {
+                "name": "Deadpool",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deadpool.webp?v=1142"
+            },
+            {
+                "name": "Death",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/death.webp?v=1142"
+            },
+            {
+                "name": "Deathlok",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deathlok.webp?v=1142"
+            },
+            {
+                "name": "Debrii",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/debrii.webp?v=1142"
+            },
+            {
+                "name": "Demon",
+                "cost": 1,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/demon.webp?v=1142"
+            },
+            {
+                "name": "Destroyer",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/destroyer.webp?v=1142"
+            },
+            {
+                "name": "Devil Dinosaur",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/devil-dinosaur.webp?v=1142"
+            },
+            {
+                "name": "Djinn",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/djinn.webp?v=1142"
+            },
+            {
+                "name": "Doctor Doom",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom.webp?v=1142"
+            },
+            {
+                "name": "Doctor Doom Champion",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom-champion.webp?v=1142"
+            },
+            {
+                "name": "Doctor Doom Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Doctor Octopus",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-octopus.webp?v=1142"
+            },
+            {
+                "name": "Doctor Strange",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-strange.webp?v=1142"
+            },
+            {
+                "name": "Doctorstrange - Avengers",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctorstrange--avengers.webp?v=1142"
+            },
+            {
+                "name": "Domino",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/domino.webp?v=1142"
+            },
+            {
+                "name": "Doom Guard",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doom-guard.webp?v=1142"
+            },
+            {
+                "name": "Doom Witch",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doom-witch.webp?v=1142"
+            },
+            {
+                "name": "Doombot",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doombot.webp?v=1142"
+            },
+            {
+                "name": "Doombot 2099",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doombot-2099.webp?v=1142"
+            },
+            {
+                "name": "Dracula",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dracula.webp?v=1142"
+            },
+            {
+                "name": "Dragon Breath",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dragon-breath.webp?v=1142"
+            },
+            {
+                "name": "Dragon Man",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dragon-man.webp?v=1142"
+            },
+            {
+                "name": "Drax",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/drax.webp?v=1142"
+            },
+            {
+                "name": "Drax - Guardians Of The Galaxy",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/drax--guardians-of-the-galaxy.webp?v=1142"
+            },
+            {
+                "name": "Drone",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/drone.webp?v=1142"
+            },
+            {
+                "name": "Dum Dum Dugan",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dum-dum-dugan.webp?v=1142"
+            },
+            {
+                "name": "Ebony Maw",
+                "cost": 1,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ebony-maw.webp?v=1142"
+            },
+            {
+                "name": "Echo",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/echo.webp?v=1142"
+            },
+            {
+                "name": "Elder Dragon Of The Moon",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elder-dragon-of-the-moon.webp?v=1142"
+            },
+            {
+                "name": "Electro",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/electro.webp?v=1142"
+            },
+            {
+                "name": "Elektra",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elektra.webp?v=1142"
+            },
+            {
+                "name": "Enchantress",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/enchantress.webp?v=1142"
+            },
+            {
+                "name": "Entropic Havok",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/entropic-havok.webp?v=1142"
+            },
+            {
+                "name": "Evolved Abomination",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-abomination.webp?v=1142"
+            },
+            {
+                "name": "Evolved Cyclops",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-cyclops.webp?v=1142"
+            },
+            {
+                "name": "Evolved Hulk",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-hulk.webp?v=1142"
+            },
+            {
+                "name": "Evolved Misty Knight",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-misty-knight.webp?v=1142"
+            },
+            {
+                "name": "Evolved Shocker",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-shocker.webp?v=1142"
+            },
+            {
+                "name": "Evolved The Thing",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-the-thing.webp?v=1142"
+            },
+            {
+                "name": "Evolved Wasp",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/evolved-wasp.webp?v=1142"
+            },
+            {
+                "name": "Excalibur",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/excalibur.webp?v=1142"
+            },
+            {
+                "name": "Falcon",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/falcon.webp?v=1142"
+            },
+            {
+                "name": "Firestar",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/firestar.webp?v=1142"
+            },
+            {
+                "name": "Flame On",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flame-on.webp?v=1142"
+            },
+            {
+                "name": "Flames Of The Faltine",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flames-of-the-faltine.webp?v=1142"
+            },
+            {
+                "name": "Flatman",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flatman.webp?v=1142"
+            },
+            {
+                "name": "Flight Harness",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flight-harness.webp?v=1142"
+            },
+            {
+                "name": "Foggy Nelson",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/foggy-nelson.webp?v=1142"
+            },
+            {
+                "name": "Force Field",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/force-field.webp?v=1142"
+            },
+            {
+                "name": "Forge",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/forge.webp?v=1142"
+            },
+            {
+                "name": "Gambit",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gambit.webp?v=1142"
+            },
+            {
+                "name": "Gambit & Shang-Chi Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gambit-&-shang-chi-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Gamora",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gamora.webp?v=1142"
+            },
+            {
+                "name": "Gamora - Guardians Of The Galaxy",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gamora--guardians-of-the-galaxy.webp?v=1142"
+            },
+            {
+                "name": "Garrison Kane",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/garrison-kane.webp?v=1142"
+            },
+            {
+                "name": "Ghost",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost.webp?v=1142"
+            },
+            {
+                "name": "Ghost - Thunderbolts",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost--thunderbolts.webp?v=1142"
+            },
+            {
+                "name": "Ghost Rider",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-rider.webp?v=1142"
+            },
+            {
+                "name": "Ghost Rider Champion",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-rider-champion.webp?v=1142"
+            },
+            {
+                "name": "Ghost-Spider",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-spider.webp?v=1142"
+            },
+            {
+                "name": "Ghost-Spider - Spider-Verse",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-spider--spider-verse.webp?v=1142"
+            },
+            {
+                "name": "Ghost-Spider Champion",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ghost-spider-champion.webp?v=1142"
+            },
+            {
+                "name": "Giganto",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/giganto.webp?v=1142"
+            },
+            {
+                "name": "Goblin Queen",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goblin-queen.webp?v=1142"
+            },
+            {
+                "name": "Goose",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goose.webp?v=1142"
+            },
+            {
+                "name": "Grapple Arrow",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/grapple-arrow.webp?v=1142"
+            },
+            {
+                "name": "Green Goblin",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/green-goblin.webp?v=1142"
+            },
+            {
+                "name": "Groot",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/groot.webp?v=1142"
+            },
+            {
+                "name": "Groot - Guardians Of The Galaxy",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/groot--guardians-of-the-galaxy.webp?v=1142"
+            },
+            {
+                "name": "H.E.R.B.I.E. Champion",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/herbie-champion.webp?v=1142"
+            },
+            {
+                "name": "Havok",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/havok.webp?v=1142"
+            },
+            {
+                "name": "Hawkeye",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye.webp?v=1142"
+            },
+            {
+                "name": "Hawkeye - Avengers",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye--avengers.webp?v=1142"
+            },
+            {
+                "name": "Hazmat",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hazmat.webp?v=1142"
+            },
+            {
+                "name": "Heimdall",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/heimdall.webp?v=1142"
+            },
+            {
+                "name": "Hela",
+                "cost": 0,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hela.webp?v=1142"
+            },
+            {
+                "name": "Helicarrier",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/helicarrier.webp?v=1142"
+            },
+            {
+                "name": "Hellcow",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hellcow.webp?v=1142"
+            },
+            {
+                "name": "Helpful Assistance",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/helpful-assistance.webp?v=1142"
+            },
+            {
+                "name": "Herbie Program 01",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/herbie-program-01.webp?v=1142"
+            },
+            {
+                "name": "Herbie Program 02",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/herbie-program-02.webp?v=1142"
+            },
+            {
+                "name": "Herbie Program 03",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/herbie-program-03.webp?v=1142"
+            },
+            {
+                "name": "Herbie Program 04",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/herbie-program-04.webp?v=1142"
+            },
+            {
+                "name": "Hercules",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hercules.webp?v=1142"
+            },
+            {
+                "name": "Hobgoblin",
+                "cost": 5,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hobgoblin.webp?v=1142"
+            },
+            {
+                "name": "Howard The Duck",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/howard-the-duck.webp?v=1142"
+            },
+            {
+                "name": "Hulk",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk.webp?v=1142"
+            },
+            {
+                "name": "Hulk - Avengers",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk--avengers.webp?v=1142"
+            },
+            {
+                "name": "Hulk Champion",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk-champion.webp?v=1142"
+            },
+            {
+                "name": "Hulk Smash",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulk-smash.webp?v=1142"
+            },
+            {
+                "name": "Hulkbuster",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hulkbuster.webp?v=1142"
+            },
+            {
+                "name": "Human Torch",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/human-torch.webp?v=1142"
+            },
+            {
+                "name": "Human Torch First Steps Champion",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/human-torch-first-steps-champion.webp?v=1142"
+            },
+            {
+                "name": "Ice Cube",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ice-cube.webp?v=1142"
+            },
+            {
+                "name": "Iceman",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iceman.webp?v=1142"
+            },
+            {
+                "name": "Illusion!",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/illusion!.webp?v=1142"
+            },
+            {
+                "name": "Images Of Ikonn",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/images-of-ikonn.webp?v=1142"
+            },
+            {
+                "name": "Incursion Event",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/incursion-event.webp?v=1142"
+            },
+            {
+                "name": "Inevitable",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/inevitable.webp?v=1142"
+            },
+            {
+                "name": "Invisible Woman",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/invisible-woman.webp?v=1142"
+            },
+            {
+                "name": "Invisible Woman & Namor Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/invisible-woman-&-namor-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Invisible Woman Champion",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/invisible-woman-champion.webp?v=1142"
+            },
+            {
+                "name": "Iron Fist",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-fist.webp?v=1142"
+            },
+            {
+                "name": "Iron Man",
+                "cost": 5,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man.webp?v=1142"
+            },
+            {
+                "name": "Iron Man Champion",
+                "cost": 5,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-man-champion.webp?v=1142"
+            },
+            {
+                "name": "Ironheart",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ironheart.webp?v=1142"
+            },
+            {
+                "name": "Jane Foster Mighty Thor",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jane-foster-mighty-thor.webp?v=1142"
+            },
+            {
+                "name": "Jean Grey",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jean-grey.webp?v=1142"
+            },
+            {
+                "name": "Jean Grey - X-Men",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jean-grey--x-men.webp?v=1142"
+            },
+            {
+                "name": "Jessica Jones",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jessica-jones.webp?v=1142"
+            },
+            {
+                "name": "John Walker Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/john-walker-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Jubilee",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jubilee.webp?v=1142"
+            },
+            {
+                "name": "Jubilee - X-Men",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jubilee--x-men.webp?v=1142"
+            },
+            {
+                "name": "Juggernaut",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/juggernaut.webp?v=1142"
+            },
+            {
+                "name": "Ka-Zar",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ka-zar.webp?v=1142"
+            },
+            {
+                "name": "Khonshu Full",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/khonshu-full.webp?v=1142"
+            },
+            {
+                "name": "Khonshu Waxing",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/khonshu-waxing.webp?v=1142"
+            },
+            {
+                "name": "Killmonger",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/killmonger.webp?v=1142"
+            },
+            {
+                "name": "Kingpin",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kingpin.webp?v=1142"
+            },
+            {
+                "name": "Kitty Pryde",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kitty-pryde.webp?v=1142"
+            },
+            {
+                "name": "Klaw",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/klaw.webp?v=1142"
+            },
+            {
+                "name": "Knight'S Vow",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/knights-vow.webp?v=1142"
+            },
+            {
+                "name": "Knull",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/knull.webp?v=1142"
+            },
+            {
+                "name": "Korg",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/korg.webp?v=1142"
+            },
+            {
+                "name": "Kraven",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kraven.webp?v=1142"
+            },
+            {
+                "name": "Lady Deathstrike",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lady-deathstrike.webp?v=1142"
+            },
+            {
+                "name": "Lady Deathstrike - Brotherhood Of Mutants",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lady-deathstrike--brotherhood-of-mutants.webp?v=1142"
+            },
+            {
+                "name": "Lady Sif",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lady-sif.webp?v=1142"
+            },
+            {
+                "name": "Lancelot",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lancelot.webp?v=1142"
+            },
+            {
+                "name": "Leader",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/leader.webp?v=1142"
+            },
+            {
+                "name": "Leech",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/leech.webp?v=1142"
+            },
+            {
+                "name": "Living Monolith",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/living-monolith.webp?v=1142"
+            },
+            {
+                "name": "Lizard",
+                "cost": 2,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lizard.webp?v=1142"
+            },
+            {
+                "name": "Lockjaw",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lockjaw.webp?v=1142"
+            },
+            {
+                "name": "Lord Of The Negative Zone",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lord-of-the-negative-zone.webp?v=1142"
+            },
+            {
+                "name": "Luke Cage",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luke-cage.webp?v=1142"
+            },
+            {
+                "name": "M'Baku",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mbaku.webp?v=1142"
+            },
+            {
+                "name": "M.O.D.O.K.",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/modok.webp?v=1142"
+            },
+            {
+                "name": "Magik",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magik.webp?v=1142"
+            },
+            {
+                "name": "Magneto",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magneto.webp?v=1142"
+            },
+            {
+                "name": "Magneto - Brotherhood Of Mutants",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magneto--brotherhood-of-mutants.webp?v=1142"
+            },
+            {
+                "name": "Magneto Champion",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magneto-champion.webp?v=1142"
+            },
+            {
+                "name": "Mantis",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mantis.webp?v=1142"
+            },
+            {
+                "name": "Mantis - Guardians Of The Galaxy",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mantis--guardians-of-the-galaxy.webp?v=1142"
+            },
+            {
+                "name": "Maria Hill",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maria-hill.webp?v=1142"
+            },
+            {
+                "name": "Martyr",
+                "cost": 1,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/martyr.webp?v=1142"
+            },
+            {
+                "name": "Massive Arsenal",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/massive-arsenal.webp?v=1142"
+            },
+            {
+                "name": "Master Mold",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/master-mold.webp?v=1142"
+            },
+            {
+                "name": "Master Of Magnetism",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/master-of-magnetism.webp?v=1142"
+            },
+            {
+                "name": "Master Plan",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/master-plan.webp?v=1142"
+            },
+            {
+                "name": "Maximum Carnage",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maximum-carnage.webp?v=1142"
+            },
+            {
+                "name": "Maximus",
+                "cost": 2,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maximus.webp?v=1142"
+            },
+            {
+                "name": "Medusa",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/medusa.webp?v=1142"
+            },
+            {
+                "name": "Mephisto",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mephisto.webp?v=1142"
+            },
+            {
+                "name": "Merlin Of Avalon",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/merlin-of-avalon.webp?v=1142"
+            },
+            {
+                "name": "Miles Morales Spider-Man",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miles-morales-spider-man.webp?v=1142"
+            },
+            {
+                "name": "Mind Shot",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mind-shot.webp?v=1142"
+            },
+            {
+                "name": "Mind Stone",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mind-stone.webp?v=1142"
+            },
+            {
+                "name": "Mirage",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mirage.webp?v=1142"
+            },
+            {
+                "name": "Mister Fantastic",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic.webp?v=1142"
+            },
+            {
+                "name": "Mister Fantastic & Beast Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic-&-beast-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Mister Fantastic Champion",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic-champion.webp?v=1142"
+            },
+            {
+                "name": "Mister Negative",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-negative.webp?v=1142"
+            },
+            {
+                "name": "Mister Sinister",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-sinister.webp?v=1142"
+            },
+            {
+                "name": "Misty Knight",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/misty-knight.webp?v=1142"
+            },
+            {
+                "name": "Mjolnir",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mjolnir.webp?v=1142"
+            },
+            {
+                "name": "Mjolnir - Avengers",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mjolnir--avengers.webp?v=1142"
+            },
+            {
+                "name": "Mobius M. Mobius",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mobius-m-mobius.webp?v=1142"
+            },
+            {
+                "name": "Mojo",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojo.webp?v=1142"
+            },
+            {
+                "name": "Mole Man Champion",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mole-man-champion.webp?v=1142"
+            },
+            {
+                "name": "Monster",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/monster.webp?v=1142"
+            },
+            {
+                "name": "Moon Girl",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-girl.webp?v=1142"
+            },
+            {
+                "name": "Moon Knight",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moon-knight.webp?v=1142"
+            },
+            {
+                "name": "Morbius",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morbius.webp?v=1142"
+            },
+            {
+                "name": "Mordred",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mordred.webp?v=1142"
+            },
+            {
+                "name": "Morph",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morph.webp?v=1142"
+            },
+            {
+                "name": "Ms. Marvel Champion",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ms-marvel-champion.webp?v=1142"
+            },
+            {
+                "name": "Multiple Man",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/multiple-man.webp?v=1142"
+            },
+            {
+                "name": "Mysterio",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mysterio.webp?v=1142"
+            },
+            {
+                "name": "Mysterio?",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mysterio-.webp?v=1142"
+            },
+            {
+                "name": "Mystique",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique.webp?v=1142"
+            },
+            {
+                "name": "Mystique - Brotherhood Of Mutants",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mystique--brotherhood-of-mutants.webp?v=1142"
+            },
+            {
+                "name": "Nakia",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nakia.webp?v=1142"
+            },
+            {
+                "name": "Namor",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/namor.webp?v=1142"
+            },
+            {
+                "name": "Nebula",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nebula.webp?v=1142"
+            },
+            {
+                "name": "Negasonic Teenage Warhead",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/negasonic-teenage-warhead.webp?v=1142"
+            },
+            {
+                "name": "Nick Fury",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nick-fury.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru Spell 01",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru-spell-01.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru Spell 02",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru-spell-02.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru Spell 03",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru-spell-03.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru Spell 04",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru-spell-04.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru Spell 05",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru-spell-05.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru Spell 06",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru-spell-06.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru Spell 07",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru-spell-07.webp?v=1142"
+            },
+            {
+                "name": "Night Nurse",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/night-nurse.webp?v=1142"
+            },
+            {
+                "name": "Nightcrawler",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler.webp?v=1142"
+            },
+            {
+                "name": "Nightcrawler - X-Men",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightcrawler--x-men.webp?v=1142"
+            },
+            {
+                "name": "Nimrod",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nimrod.webp?v=1142"
+            },
+            {
+                "name": "Ninja",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ninja.webp?v=1142"
+            },
+            {
+                "name": "Nova",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova.webp?v=1142"
+            },
+            {
+                "name": "Odin",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/odin.webp?v=1142"
+            },
+            {
+                "name": "Okoye",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/okoye.webp?v=1142"
+            },
+            {
+                "name": "Omega Red",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/omega-red.webp?v=1142"
+            },
+            {
+                "name": "Omniversal Presence",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/omniversal-presence.webp?v=1142"
+            },
+            {
+                "name": "Once And Future",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/once-and-future.webp?v=1142"
+            },
+            {
+                "name": "Onslaught",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/onslaught.webp?v=1142"
+            },
+            {
+                "name": "Optic Blast",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/optic-blast.webp?v=1142"
+            },
+            {
+                "name": "Orka",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/orka.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overloadedreactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect01",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect02",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect03",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect04",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect05",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect06",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect07",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect08",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect09",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Overdrive Reactor Effect10",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/overdrive-reactor.webp?v=1142"
+            },
+            {
+                "name": "Patriot",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/patriot.webp?v=1142"
+            },
+            {
+                "name": "Penance Stare",
+                "cost": 5,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/penance-stare.webp?v=1142"
+            },
+            {
+                "name": "Pig",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pig.webp?v=1142"
+            },
+            {
+                "name": "Pizza Slice",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pizza-slice.webp?v=1142"
+            },
+            {
+                "name": "Polaris",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris.webp?v=1142"
+            },
+            {
+                "name": "Polymorph",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polymorph.webp?v=1142"
+            },
+            {
+                "name": "Power Shot",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/power-shot.webp?v=1142"
+            },
+            {
+                "name": "Power Stone",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/power-stone.webp?v=1142"
+            },
+            {
+                "name": "Professor X",
+                "cost": 5,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x.webp?v=1142"
+            },
+            {
+                "name": "Professor X - X-Men",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x--x-men.webp?v=1142"
+            },
+            {
+                "name": "Professor X Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/professor-x-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Project Armageddon",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/project-armageddon.webp?v=1142"
+            },
+            {
+                "name": "Psylocke",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke.webp?v=1142"
+            },
+            {
+                "name": "Punisher",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/punisher.webp?v=1142"
+            },
+            {
+                "name": "Pymparticle Arrow",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pymparticle-arrow.webp?v=1142"
+            },
+            {
+                "name": "Quake",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quake.webp?v=1142"
+            },
+            {
+                "name": "Quicksilver",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quicksilver.webp?v=1142"
+            },
+            {
+                "name": "Quinjet",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quinjet.webp?v=1142"
+            },
+            {
+                "name": "Random",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/random.webp?v=1142"
+            },
+            {
+                "name": "Raptor",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/raptor.webp?v=1142"
+            },
+            {
+                "name": "Reality Shot",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/reality-shot.webp?v=1142"
+            },
+            {
+                "name": "Reality Stone",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/reality-stone.webp?v=1142"
+            },
+            {
+                "name": "Red Skull",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-skull.webp?v=1142"
+            },
+            {
+                "name": "Remote Mines",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/remote-mines.webp?v=1142"
+            },
+            {
+                "name": "Rescue",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rescue.webp?v=1142"
+            },
+            {
+                "name": "Return To The Past",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/return-to-the-past.webp?v=1142"
+            },
+            {
+                "name": "Rhino",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rhino.webp?v=1142"
+            },
+            {
+                "name": "Rock",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rock.webp?v=1142"
+            },
+            {
+                "name": "Rocket Raccoon",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-raccoon.webp?v=1142"
+            },
+            {
+                "name": "Rocket Raccoon - Guardians Of The Galaxy",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-raccoon--guardians-of-the-galaxy.webp?v=1142"
+            },
+            {
+                "name": "Rocket Raccoon Champion",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-raccoon-champion.webp?v=1142"
+            },
+            {
+                "name": "Rockslide",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rockslide.webp?v=1142"
+            },
+            {
+                "name": "Rogue",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rogue.webp?v=1142"
+            },
+            {
+                "name": "Ronan The Accuser",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ronan-the-accuser.webp?v=1142"
+            },
+            {
+                "name": "Sabretooth",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sabretooth.webp?v=1142"
+            },
+            {
+                "name": "Sandman",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sandman.webp?v=1142"
+            },
+            {
+                "name": "Sauron",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sauron.webp?v=1142"
+            },
+            {
+                "name": "Scarlet Spider - Spider-Verse",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-spider--spider-verse.webp?v=1142"
+            },
+            {
+                "name": "Scarlet Spider Clone",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-spider-clone.webp?v=1142"
+            },
+            {
+                "name": "Scarlet Witch",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-witch.webp?v=1142"
+            },
+            {
+                "name": "Scarlet Witch - Brotherhood Of Mutants",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-witch--brotherhood-of-mutants.webp?v=1142"
+            },
+            {
+                "name": "Scorpion",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scorpion.webp?v=1142"
+            },
+            {
+                "name": "Selene",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/selene.webp?v=1142"
+            },
+            {
+                "name": "Selene - Brotherhood Of Mutants",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/selene--brotherhood-of-mutants.webp?v=1142"
+            },
+            {
+                "name": "Sentinel",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentinel.webp?v=1142"
+            },
+            {
+                "name": "Sentinel Champion",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentinel-champion.webp?v=1142"
+            },
+            {
+                "name": "Sentry",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentry.webp?v=1142"
+            },
+            {
+                "name": "Sentry - Thunderbolts",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sentry--thunderbolts.webp?v=1142"
+            },
+            {
+                "name": "Sera",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sera.webp?v=1142"
+            },
+            {
+                "name": "Shadow King",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shadow-king.webp?v=1142"
+            },
+            {
+                "name": "Shang-Chi",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi.webp?v=1142"
+            },
+            {
+                "name": "Shanna",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shanna.webp?v=1142"
+            },
+            {
+                "name": "She-Hulk",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/she-hulk.webp?v=1142"
+            },
+            {
+                "name": "Shield Throw",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shield-throw.webp?v=1142"
+            },
+            {
+                "name": "Shocker",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shocker.webp?v=1142"
+            },
+            {
+                "name": "Shuri",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuri.webp?v=1142"
+            },
+            {
+                "name": "Silk",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silk.webp?v=1142"
+            },
+            {
+                "name": "Silver Samurai",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-samurai.webp?v=1142"
+            },
+            {
+                "name": "Silver Surfer",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer.webp?v=1142"
+            },
+            {
+                "name": "Sinister Clone",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sinister-clone.webp?v=1142"
+            },
+            {
+                "name": "Sir Percy Black Knight",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sir-percy-black-knight.webp?v=1142"
+            },
+            {
+                "name": "Skill 01 Ms. Marvel Champion",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/skill-01-ms-marvel-champion.webp?v=1142"
+            },
+            {
+                "name": "Snowguard",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard.webp?v=1142"
+            },
+            {
+                "name": "Snowguard Bear",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard-bear.webp?v=1142"
+            },
+            {
+                "name": "Snowguard Hawk",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard-hawk.webp?v=1142"
+            },
+            {
+                "name": "Snowguard Wolf",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/snowguard-wolf.webp?v=1142"
+            },
+            {
+                "name": "Soul Shot",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/soul-shot.webp?v=1142"
+            },
+            {
+                "name": "Soul Stone",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/soul-stone.webp?v=1142"
+            },
+            {
+                "name": "Sp//Dr",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sp-dr.webp?v=1142"
+            },
+            {
+                "name": "Space Shot",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/space-shot.webp?v=1142"
+            },
+            {
+                "name": "Space Stone",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/space-stone.webp?v=1142"
+            },
+            {
+                "name": "Spectrum",
+                "cost": 0,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spectrum.webp?v=1142"
+            },
+            {
+                "name": "Spider-Ham",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-ham.webp?v=1142"
+            },
+            {
+                "name": "Spider-Man",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man.webp?v=1142"
+            },
+            {
+                "name": "Spider-Man 2099",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man-2099.webp?v=1142"
+            },
+            {
+                "name": "Spider-Man 2099 - Spider-Verse",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man-2099--spider-verse.webp?v=1142"
+            },
+            {
+                "name": "Spider-Woman",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-woman.webp?v=1142"
+            },
+            {
+                "name": "Squirrel",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel.webp?v=1142"
+            },
+            {
+                "name": "Squirrel Girl",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/squirrel-girl.webp?v=1142"
+            },
+            {
+                "name": "Star-Lord",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/star-lord.webp?v=1142"
+            },
+            {
+                "name": "Stark Technology",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stark-technology.webp?v=1142"
+            },
+            {
+                "name": "Starlord - Guardians Of The Galaxy",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/starlord--guardians-of-the-galaxy.webp?v=1142"
+            },
+            {
+                "name": "Stature",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stature.webp?v=1142"
+            },
+            {
+                "name": "Stegron",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stegron.webp?v=1142"
+            },
+            {
+                "name": "Storm",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/storm.webp?v=1142"
+            },
+            {
+                "name": "Stormbreaker",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stormbreaker.webp?v=1142"
+            },
+            {
+                "name": "Strong Guy",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/strong-guy.webp?v=1142"
+            },
+            {
+                "name": "Subterranean Summons",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/subterranean-summons.webp?v=1142"
+            },
+            {
+                "name": "Summoning Ritual 1",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/summoning-ritual-1.webp?v=1142"
+            },
+            {
+                "name": "Summoning Ritual 2",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/summoning-ritual-2.webp?v=1142"
+            },
+            {
+                "name": "Summoning Ritual 3",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/summoning-ritual-3.webp?v=1142"
+            },
+            {
+                "name": "Sunspot",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sunspot.webp?v=1142"
+            },
+            {
+                "name": "Super-Skrull",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/super-skrull.webp?v=1142"
+            },
+            {
+                "name": "Swarm",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/swarm.webp?v=1142"
+            },
+            {
+                "name": "Sword Master",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sword-master.webp?v=1142"
+            },
+            {
+                "name": "Sword Of Fu Xi",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sword-of-fu-xi.webp?v=1142"
+            },
+            {
+                "name": "Symbiote",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/symbiote.webp?v=1142"
+            },
+            {
+                "name": "Symbiote Spider-Man - Spider-Verse",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/symbiote-spider-man--spider-verse.webp?v=1142"
+            },
+            {
+                "name": "Tao Mandala",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tao-mandala.webp?v=1142"
+            },
+            {
+                "name": "Taskmaster",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster.webp?v=1142"
+            },
+            {
+                "name": "Taskmaster - Thunderbolts",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/taskmaster--thunderbolts.webp?v=1142"
+            },
+            {
+                "name": "Techno-Organic Virus Infection",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/techno-organic-virus-infection.webp?v=1142"
+            },
+            {
+                "name": "Temporal Manipulation",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/temporal-manipulation.webp?v=1142"
+            },
+            {
+                "name": "Thanos Champion",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thanos-champion.webp?v=1142"
+            },
+            {
+                "name": "The Collector",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-collector.webp?v=1142"
+            },
+            {
+                "name": "The Grand Design",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-grand-design.webp?v=1142"
+            },
+            {
+                "name": "The Hood",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hood.webp?v=1142"
+            },
+            {
+                "name": "The Infinaut",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-infinaut.webp?v=1142"
+            },
+            {
+                "name": "The Inversion",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-inversion.webp?v=1142"
+            },
+            {
+                "name": "The Ten Rings",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-ten-rings.webp?v=1142"
+            },
+            {
+                "name": "The Ten Rings Upgraded",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-ten-rings-upgraded.webp?v=1142"
+            },
+            {
+                "name": "The Thing",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-thing.webp?v=1142"
+            },
+            {
+                "name": "The Thing First Steps Champion",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-thing-first-steps-champion.webp?v=1142"
+            },
+            {
+                "name": "The Void",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-void.webp?v=1142"
+            },
+            {
+                "name": "Thor",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thor.webp?v=1142"
+            },
+            {
+                "name": "Thor - Avengers",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thor--avengers.webp?v=1142"
+            },
+            {
+                "name": "Thor Champion",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thor-champion.webp?v=1142"
+            },
+            {
+                "name": "Thundering Hammer",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thundering-hammer.webp?v=1142"
+            },
+            {
+                "name": "Tiger Spirit",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tiger-spirit.webp?v=1142"
+            },
+            {
+                "name": "Time Shot",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/time-shot.webp?v=1142"
+            },
+            {
+                "name": "Time Stone",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/time-stone.webp?v=1142"
+            },
+            {
+                "name": "Titania",
+                "cost": 1,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/titania.webp?v=1142"
+            },
+            {
+                "name": "Toad",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toad.webp?v=1142"
+            },
+            {
+                "name": "Toxie Doxie - Thunderbolts",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxie-doxie--thunderbolts.webp?v=1142"
+            },
+            {
+                "name": "Typhoid Mary",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/typhoid-mary.webp?v=1142"
+            },
+            {
+                "name": "Uatu The Watcher",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/uatu-the-watcher.webp?v=1142"
+            },
+            {
+                "name": "Ultron",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron.webp?v=1142"
+            },
+            {
+                "name": "Ultron Mind Stone",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron-mind-stone.webp?v=1142"
+            },
+            {
+                "name": "Ultron Power Stone",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron-power-stone.webp?v=1142"
+            },
+            {
+                "name": "Ultron Reality Stone",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron-reality-stone.webp?v=1142"
+            },
+            {
+                "name": "Ultron Soul Stone",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron-soul-stone.webp?v=1142"
+            },
+            {
+                "name": "Ultron Space Stone",
+                "cost": 2,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron-space-stone.webp?v=1142"
+            },
+            {
+                "name": "Ultron Time Stone",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ultron-time-stone.webp?v=1142"
+            },
+            {
+                "name": "Valentina - Thunderbolts",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valentina--thunderbolts.webp?v=1142"
+            },
+            {
+                "name": "Valkyrie",
+                "cost": 5,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valkyrie.webp?v=1142"
+            },
+            {
+                "name": "Vampire America Chavez",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vampire-america-chavez.webp?v=1142"
+            },
+            {
+                "name": "Vampire Deacon Frost",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vampire-deacon-frost.webp?v=1142"
+            },
+            {
+                "name": "Vampire Killmonger",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vampire-killmonger.webp?v=1142"
+            },
+            {
+                "name": "Vampiric Spear",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vampiric-spear.webp?v=1142"
+            },
+            {
+                "name": "Venom",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/venom.webp?v=1142"
+            },
+            {
+                "name": "Vibranium",
+                "cost": 1,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vibranium.webp?v=1142"
+            },
+            {
+                "name": "Vibro-Shock Gauntlets",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vibro-shock-gauntlets.webp?v=1142"
+            },
+            {
+                "name": "Viper",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viper.webp?v=1142"
+            },
+            {
+                "name": "Vision",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vision.webp?v=1142"
+            },
+            {
+                "name": "Vision - Avengers",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vision--avengers.webp?v=1142"
+            },
+            {
+                "name": "Vulture",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vulture.webp?v=1142"
+            },
+            {
+                "name": "Wakanda Forever",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wakanda-forever.webp?v=1142"
+            },
+            {
+                "name": "Warpath",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/warpath.webp?v=1142"
+            },
+            {
+                "name": "Wasp",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wasp.webp?v=1142"
+            },
+            {
+                "name": "Wave",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wave.webp?v=1142"
+            },
+            {
+                "name": "Weapon X Wolverine Champion",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/weapon-x-wolverine-champion.webp?v=1142"
+            },
+            {
+                "name": "White Queen",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-queen.webp?v=1142"
+            },
+            {
+                "name": "White Queen - Brotherhood Of Mutants",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-queen--brotherhood-of-mutants.webp?v=1142"
+            },
+            {
+                "name": "White Tiger",
+                "cost": 5,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-tiger.webp?v=1142"
+            },
+            {
+                "name": "Widow'S Bite",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/widows-bite.webp?v=1142"
+            },
+            {
+                "name": "Widow'S Kiss",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/widows-kiss.webp?v=1142"
+            },
+            {
+                "name": "Winds Of Watoomb",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/winds-of-watoomb.webp?v=1142"
+            },
+            {
+                "name": "Winter Soldier",
+                "cost": 2,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/winter-soldier.webp?v=1142"
+            },
+            {
+                "name": "Winter Soldier - Thunderbolts",
+                "cost": 2,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/winter-soldier--thunderbolts.webp?v=1142"
+            },
+            {
+                "name": "Witchfire",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/witchfire.webp?v=1142"
+            },
+            {
+                "name": "Wolfsbane",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolfsbane.webp?v=1142"
+            },
+            {
+                "name": "Wolverine",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolverine.webp?v=1142"
+            },
+            {
+                "name": "Wolverine - X-Men",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolverine--x-men.webp?v=1142"
+            },
+            {
+                "name": "Wong",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wong.webp?v=1142"
+            },
+            {
+                "name": "Yakaarrow",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yakaarrow.webp?v=1142"
+            },
+            {
+                "name": "Yelena Belova Doomsday",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yelena-belova-doomsday.webp?v=1142"
+            },
+            {
+                "name": "Yellowjacket",
+                "cost": 0,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yellowjacket.webp?v=1142"
+            },
+            {
+                "name": "Yo-Yo",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yo-yo.webp?v=1142"
+            },
+            {
+                "name": "Yondu",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yondu.webp?v=1142"
+            },
+            {
+                "name": "Zabu",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zabu.webp?v=1142"
+            },
+            {
+                "name": "Zero",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zero.webp?v=1142"
+            },
+            {
+                "name": "Zombie Black Cat",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-black-cat.webp?v=1142"
+            },
+            {
+                "name": "Zombie Horde",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-horde.webp?v=1142"
+            },
+            {
+                "name": "Zombie Nova",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-nova.webp?v=1142"
+            }
+        ],
+        "Series 4": [
+            {
+                "name": "Agony",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agony.webp?v=1142"
+            },
+            {
+                "name": "Air-Walker",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/air-walker.webp?v=1142"
+            },
+            {
+                "name": "Annihilus",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/annihilus.webp?v=1142"
+            },
+            {
+                "name": "Askani'Son",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/askanison.webp?v=1142"
+            },
+            {
+                "name": "Astral Projection",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/astral-projection.webp?v=1142"
+            },
+            {
+                "name": "Awesome Andy",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/awesome-andy.webp?v=1142"
+            },
+            {
+                "name": "Batroc The Leaper",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/batroc-the-leaper.webp?v=1142"
+            },
+            {
+                "name": "Beta Ray Bill",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/beta-ray-bill.webp?v=1142"
+            },
+            {
+                "name": "Black Knight",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-knight.webp?v=1142"
+            },
+            {
+                "name": "Blob",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blob.webp?v=1142"
+            },
+            {
+                "name": "Cannonball",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cannonball.webp?v=1142"
+            },
+            {
+                "name": "Chameleon",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/chameleon.webp?v=1142"
+            },
+            {
+                "name": "Cobra",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cobra.webp?v=1142"
+            },
+            {
+                "name": "Corvus Glaive",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/corvus-glaive.webp?v=1142"
+            },
+            {
+                "name": "Cull Obsidian",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cull-obsidian.webp?v=1142"
+            },
+            {
+                "name": "Daken",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daken.webp?v=1142"
+            },
+            {
+                "name": "Danger",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/danger.webp?v=1142"
+            },
+            {
+                "name": "Darkhawk",
+                "cost": 5,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/darkhawk.webp?v=1142"
+            },
+            {
+                "name": "Deafening Chord",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deafening-chord.webp?v=1142"
+            },
+            {
+                "name": "Doctor Octopus Fractured Frontier",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-octopus-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "Dragon Lord",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dragon-lord.webp?v=1142"
+            },
+            {
+                "name": "Elsa Bloodstone",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elsa-bloodstone.webp?v=1142"
+            },
+            {
+                "name": "Fan Fei",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fan-fei.webp?v=1142"
+            },
+            {
+                "name": "Fantasticar",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fantasticar.webp?v=1142"
+            },
+            {
+                "name": "Fastball Special",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fastball-special.webp?v=1142"
+            },
+            {
+                "name": "Firelord",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/firelord.webp?v=1142"
+            },
+            {
+                "name": "Gladiator",
+                "cost": 3,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gladiator.webp?v=1142"
+            },
+            {
+                "name": "Gorgon",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gorgon.webp?v=1142"
+            },
+            {
+                "name": "Grand Master",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/grand-master.webp?v=1142"
+            },
+            {
+                "name": "Hellcow Fractured Frontier",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hellcow-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "Hellion",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hellion.webp?v=1142"
+            },
+            {
+                "name": "Hit-Monkey",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hit-monkey.webp?v=1142"
+            },
+            {
+                "name": "Hydro-Man",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hydro-man.webp?v=1142"
+            },
+            {
+                "name": "Ikari",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ikari.webp?v=1142"
+            },
+            {
+                "name": "Iron Lad",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-lad.webp?v=1142"
+            },
+            {
+                "name": "J. Jonah Jameson",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/j-jonah-jameson.webp?v=1142"
+            },
+            {
+                "name": "Jennifer Kale",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jennifer-kale.webp?v=1142"
+            },
+            {
+                "name": "King Eitri",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/king-eitri.webp?v=1142"
+            },
+            {
+                "name": "Lasher",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lasher.webp?v=1142"
+            },
+            {
+                "name": "Laufey",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/laufey.webp?v=1142"
+            },
+            {
+                "name": "Legion",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/legion.webp?v=1142"
+            },
+            {
+                "name": "Loki",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/loki.webp?v=1142"
+            },
+            {
+                "name": "Mad Thinker",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mad-thinker.webp?v=1142"
+            },
+            {
+                "name": "Majestic Wingbeat",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/majestic-wingbeat.webp?v=1142"
+            },
+            {
+                "name": "Major Victory",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/major-victory.webp?v=1142"
+            },
+            {
+                "name": "Man-Thing",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/man-thing.webp?v=1142"
+            },
+            {
+                "name": "Marrow",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/marrow.webp?v=1142"
+            },
+            {
+                "name": "Mercury",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mercury.webp?v=1142"
+            },
+            {
+                "name": "Miek",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miek.webp?v=1142"
+            },
+            {
+                "name": "Mole Man",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mole-man.webp?v=1142"
+            },
+            {
+                "name": "Mother Askani",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mother-askani.webp?v=1142"
+            },
+            {
+                "name": "Ms. Marvel",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ms-marvel.webp?v=1142"
+            },
+            {
+                "name": "Nicholas Scratch",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nicholas-scratch.webp?v=1142"
+            },
+            {
+                "name": "Omega Sentinel",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/omega-sentinel.webp?v=1142"
+            },
+            {
+                "name": "Ozymandias",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ozymandias.webp?v=1142"
+            },
+            {
+                "name": "Phastos",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/phastos.webp?v=1142"
+            },
+            {
+                "name": "Phoenix Force",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/phoenix-force.webp?v=1142"
+            },
+            {
+                "name": "Pixie",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pixie.webp?v=1142"
+            },
+            {
+                "name": "Quicksand",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quicksand.webp?v=1142"
+            },
+            {
+                "name": "Ravonna Renslayer",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ravonna-renslayer.webp?v=1142"
+            },
+            {
+                "name": "Red Shift",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-shift.webp?v=1142"
+            },
+            {
+                "name": "Sandstorm",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sandstorm.webp?v=1142"
+            },
+            {
+                "name": "Sasquatch",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sasquatch.webp?v=1142"
+            },
+            {
+                "name": "Sebastian Shaw",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sebastian-shaw.webp?v=1142"
+            },
+            {
+                "name": "Silver Surfer First Steps",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-surfer-first-steps.webp?v=1142"
+            },
+            {
+                "name": "Skaar",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/skaar.webp?v=1142"
+            },
+            {
+                "name": "Spider Sense",
+                "cost": 5,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-sense.webp?v=1142"
+            },
+            {
+                "name": "Starhawk",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/starhawk.webp?v=1142"
+            },
+            {
+                "name": "Stick",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stick.webp?v=1142"
+            },
+            {
+                "name": "Super-Adaptoid",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/super-adaptoid.webp?v=1142"
+            },
+            {
+                "name": "Supergiant",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/supergiant.webp?v=1142"
+            },
+            {
+                "name": "Terrax The Tamer",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/terrax-the-tamer.webp?v=1142"
+            },
+            {
+                "name": "The First Ghost Rider",
+                "cost": 2,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-first-ghost-rider.webp?v=1142"
+            },
+            {
+                "name": "The Hunger",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hunger.webp?v=1142"
+            },
+            {
+                "name": "The Living Tribunal",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-living-tribunal.webp?v=1142"
+            },
+            {
+                "name": "Tombstone",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tombstone.webp?v=1142"
+            },
+            {
+                "name": "Topaz",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/topaz.webp?v=1142"
+            },
+            {
+                "name": "Toxie Doxie",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxie-doxie.webp?v=1142"
+            },
+            {
+                "name": "Triton",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/triton.webp?v=1142"
+            },
+            {
+                "name": "Uncle Ben",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/uncle-ben.webp?v=1142"
+            },
+            {
+                "name": "Valentina",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valentina.webp?v=1142"
+            },
+            {
+                "name": "Wade Wilson",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wade-wilson.webp?v=1142"
+            },
+            {
+                "name": "Web Sling",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/web-sling.webp?v=1142"
+            },
+            {
+                "name": "Werewolf By Night",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/werewolf-by-night.webp?v=1142"
+            },
+            {
+                "name": "Wild Child",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wild-child.webp?v=1142"
+            },
+            {
+                "name": "X-23",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/x-23.webp?v=1142"
+            },
+            {
+                "name": "Zombie Giant-Man",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-giant-man.webp?v=1142"
+            },
+            {
+                "name": "Zombie Power Man",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-power-man.webp?v=1142"
+            },
+            {
+                "name": "Zombie Sentry",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-sentry.webp?v=1142"
+            }
+        ],
+        "Series 5": [
+            {
+                "name": "Adamantium Infusion",
+                "cost": 4,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/adamantium-infusion.webp?v=1142"
+            },
+            {
+                "name": "Agamotto",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agamotto.webp?v=1142"
+            },
+            {
+                "name": "Agent Venom",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/agent-venom.webp?v=1142"
+            },
+            {
+                "name": "Ajax",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ajax.webp?v=1142"
+            },
+            {
+                "name": "Alioth",
+                "cost": 0,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/alioth.webp?v=1142"
+            },
+            {
+                "name": "Anti-Polar Magneto",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-polar-magneto.webp?v=1142"
+            },
+            {
+                "name": "Anti-Venom",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/anti-venom.webp?v=1142"
+            },
+            {
+                "name": "Araña",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arana.webp?v=1142"
+            },
+            {
+                "name": "Archangel Horseman Of Death",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/archangel-horseman-of-death.webp?v=1142"
+            },
+            {
+                "name": "Ares",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ares.webp?v=1142"
+            },
+            {
+                "name": "Arishem",
+                "cost": 0,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/arishem.webp?v=1142"
+            },
+            {
+                "name": "Aunt May",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aunt-may.webp?v=1142"
+            },
+            {
+                "name": "Aurora",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aurora.webp?v=1142"
+            },
+            {
+                "name": "Baron Zemo",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/baron-zemo.webp?v=1142"
+            },
+            {
+                "name": "Bastion",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bastion.webp?v=1142"
+            },
+            {
+                "name": "Black Swan",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-swan.webp?v=1142"
+            },
+            {
+                "name": "Blink",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/blink.webp?v=1142"
+            },
+            {
+                "name": "Boomerang",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/boomerang.webp?v=1142"
+            },
+            {
+                "name": "Bruce Banner",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bruce-banner.webp?v=1142"
+            },
+            {
+                "name": "Bullseye",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bullseye.webp?v=1142"
+            },
+            {
+                "name": "Caiera",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/caiera.webp?v=1142"
+            },
+            {
+                "name": "Caliban Horseman Of Pestilence",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/caliban-horseman-of-pestilence.webp?v=1142"
+            },
+            {
+                "name": "Captain Carter",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/captain-carter.webp?v=1142"
+            },
+            {
+                "name": "Cassandra Nova",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cassandra-nova.webp?v=1142"
+            },
+            {
+                "name": "Chamber",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/chamber.webp?v=1142"
+            },
+            {
+                "name": "Clea",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/clea.webp?v=1142"
+            },
+            {
+                "name": "Colonel America",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/colonel-america.webp?v=1142"
+            },
+            {
+                "name": "Copycat",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/copycat.webp?v=1142"
+            },
+            {
+                "name": "Cosmic Ghost Rider",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cosmic-ghost-rider.webp?v=1142"
+            },
+            {
+                "name": "Death Fractured Frontier",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/death-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "Diamondback",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/diamondback.webp?v=1142"
+            },
+            {
+                "name": "Doctor Doom 2099",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/doctor-doom-2099.webp?v=1142"
+            },
+            {
+                "name": "Dormammu",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dormammu.webp?v=1142"
+            },
+            {
+                "name": "Dragon Of The Moon",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dragon-of-the-moon.webp?v=1142"
+            },
+            {
+                "name": "Drax, Avatar Of Life",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/drax-avatar-of-life.webp?v=1142"
+            },
+            {
+                "name": "Elixir",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elixir.webp?v=1142"
+            },
+            {
+                "name": "Emperor Hulkling",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/emperor-hulkling.webp?v=1142"
+            },
+            {
+                "name": "En Sabah Nur",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/en-sabah-nur.webp?v=1142"
+            },
+            {
+                "name": "Esme Cuckoo",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/esme-cuckoo.webp?v=1142"
+            },
+            {
+                "name": "Eson",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/eson.webp?v=1142"
+            },
+            {
+                "name": "Ezekiel Sims",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ezekiel-sims.webp?v=1142"
+            },
+            {
+                "name": "Fantomex",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fantomex.webp?v=1142"
+            },
+            {
+                "name": "Fenris Wolf",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fenris-wolf.webp?v=1142"
+            },
+            {
+                "name": "Fin Fang Foom",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fin-fang-foom.webp?v=1142"
+            },
+            {
+                "name": "Firehair",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/firehair.webp?v=1142"
+            },
+            {
+                "name": "Friendly Neighborhood Carnage",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/friendly-neighborhood-carnage.webp?v=1142"
+            },
+            {
+                "name": "Frigga",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/frigga.webp?v=1142"
+            },
+            {
+                "name": "Galacta",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galacta.webp?v=1142"
+            },
+            {
+                "name": "Galactus",
+                "cost": 0,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galactus.webp?v=1142"
+            },
+            {
+                "name": "Galactus First Steps",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/galactus-first-steps.webp?v=1142"
+            },
+            {
+                "name": "Gambit Horseman Of Death",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gambit-horseman-of-death.webp?v=1142"
+            },
+            {
+                "name": "Gilgamesh",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gilgamesh.webp?v=1142"
+            },
+            {
+                "name": "Goliath",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/goliath.webp?v=1142"
+            },
+            {
+                "name": "Gorr The God Butcher",
+                "cost": 0,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gorr-the-god-butcher.webp?v=1142"
+            },
+            {
+                "name": "Gwenpool",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gwenpool.webp?v=1142"
+            },
+            {
+                "name": "H.E.R.B.I.E.",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/herbie.webp?v=1142"
+            },
+            {
+                "name": "Hawkeye Kate Bishop",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hawkeye-kate-bishop.webp?v=1142"
+            },
+            {
+                "name": "Headpool",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/headpool.webp?v=1142"
+            },
+            {
+                "name": "High Evolutionary",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/high-evolutionary.webp?v=1142"
+            },
+            {
+                "name": "Hope Summers",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hope-summers.webp?v=1142"
+            },
+            {
+                "name": "Human Torch First Steps",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/human-torch-first-steps.webp?v=1142"
+            },
+            {
+                "name": "Hydra Bob",
+                "cost": 1,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hydra-bob.webp?v=1142"
+            },
+            {
+                "name": "Hydra Stomper",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hydra-stomper.webp?v=1142"
+            },
+            {
+                "name": "Infinity Ultron",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/infinity-ultron.webp?v=1142"
+            },
+            {
+                "name": "Invisible Woman First Steps",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/invisible-woman-first-steps.webp?v=1142"
+            },
+            {
+                "name": "Iron Patriot",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/iron-patriot.webp?v=1142"
+            },
+            {
+                "name": "Isca The Unbeaten",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/isca-the-unbeaten.webp?v=1142"
+            },
+            {
+                "name": "Jack Flag",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jack-flag.webp?v=1142"
+            },
+            {
+                "name": "Jane Foster Fractured Frontier",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jane-foster-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "Jeff The Baby Dolphin!?",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jeff-the-baby-dolphin!-.webp?v=1142"
+            },
+            {
+                "name": "Jeff The Baby Land Shark",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jeff-the-baby-land-shark.webp?v=1142"
+            },
+            {
+                "name": "Jim Hammond Human Torch",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jim-hammond-human-torch.webp?v=1142"
+            },
+            {
+                "name": "Joaquin Torres Falcon Ii",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/joaquin-torres-falcon-ii.webp?v=1142"
+            },
+            {
+                "name": "Jocasta",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jocasta.webp?v=1142"
+            },
+            {
+                "name": "Jubilee Silver Surfer",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jubilee-silver-surfer.webp?v=1142"
+            },
+            {
+                "name": "Juggernaut Horseman Of War",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/juggernaut-horseman-of-war.webp?v=1142"
+            },
+            {
+                "name": "Kahhori",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kahhori.webp?v=1142"
+            },
+            {
+                "name": "Kang",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kang.webp?v=1142"
+            },
+            {
+                "name": "Karen Page",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/karen-page.webp?v=1142"
+            },
+            {
+                "name": "Khonshu",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/khonshu.webp?v=1142"
+            },
+            {
+                "name": "Kid Omega",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kid-omega.webp?v=1142"
+            },
+            {
+                "name": "Kluh",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kluh.webp?v=1142"
+            },
+            {
+                "name": "Kraglin",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kraglin.webp?v=1142"
+            },
+            {
+                "name": "Lady Bullseye",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lady-bullseye.webp?v=1142"
+            },
+            {
+                "name": "Lin Lie Iron Fist",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lin-lie-iron-fist.webp?v=1142"
+            },
+            {
+                "name": "Lockheed",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lockheed.webp?v=1142"
+            },
+            {
+                "name": "Luna Snow",
+                "cost": 3,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/luna-snow.webp?v=1142"
+            },
+            {
+                "name": "Madame Web",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/madame-web.webp?v=1142"
+            },
+            {
+                "name": "Magus",
+                "cost": 2,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/magus.webp?v=1142"
+            },
+            {
+                "name": "Makkari",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/makkari.webp?v=1142"
+            },
+            {
+                "name": "Malekith",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/malekith.webp?v=1142"
+            },
+            {
+                "name": "Man-Spider",
+                "cost": 5,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/man-spider.webp?v=1142"
+            },
+            {
+                "name": "Marvel Boy",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/marvel-boy.webp?v=1142"
+            },
+            {
+                "name": "Mary Jane",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mary-jane.webp?v=1142"
+            },
+            {
+                "name": "Maverick",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/maverick.webp?v=1142"
+            },
+            {
+                "name": "Merlin",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/merlin.webp?v=1142"
+            },
+            {
+                "name": "Misery",
+                "cost": 4,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/misery.webp?v=1142"
+            },
+            {
+                "name": "Mister Fantastic First Steps",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mister-fantastic-first-steps.webp?v=1142"
+            },
+            {
+                "name": "Mockingbird",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mockingbird.webp?v=1142"
+            },
+            {
+                "name": "Moira X",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moira-x.webp?v=1142"
+            },
+            {
+                "name": "Monstro",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/monstro.webp?v=1142"
+            },
+            {
+                "name": "Moondragon",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moondragon.webp?v=1142"
+            },
+            {
+                "name": "Moonstone",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/moonstone.webp?v=1142"
+            },
+            {
+                "name": "Morgan Le Fay",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morgan-le-fay.webp?v=1142"
+            },
+            {
+                "name": "Muse",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/muse.webp?v=1142"
+            },
+            {
+                "name": "Namora",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/namora.webp?v=1142"
+            },
+            {
+                "name": "Namorita",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/namorita.webp?v=1142"
+            },
+            {
+                "name": "Nico Minoru",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nico-minoru.webp?v=1142"
+            },
+            {
+                "name": "Nightmare",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nightmare.webp?v=1142"
+            },
+            {
+                "name": "Nocturne",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nocturne.webp?v=1142"
+            },
+            {
+                "name": "Nova Frankie Raye",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova-frankie-raye.webp?v=1142"
+            },
+            {
+                "name": "Peni Parker",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/peni-parker.webp?v=1142"
+            },
+            {
+                "name": "Polaris Horseman Of Pestilence",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/polaris-horseman-of-pestilence.webp?v=1142"
+            },
+            {
+                "name": "Prodigy",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/prodigy.webp?v=1142"
+            },
+            {
+                "name": "Prowler",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/prowler.webp?v=1142"
+            },
+            {
+                "name": "Proxima Midnight",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/proxima-midnight.webp?v=1142"
+            },
+            {
+                "name": "Psylocke Fractured Frontier",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/psylocke-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "Punisher War Machine",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/punisher-war-machine.webp?v=1142"
+            },
+            {
+                "name": "Rama-Tut",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rama-tut.webp?v=1142"
+            },
+            {
+                "name": "Red Guardian",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-guardian.webp?v=1142"
+            },
+            {
+                "name": "Red Hulk",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-hulk.webp?v=1142"
+            },
+            {
+                "name": "Red Hulk Fractured Frontier",
+                "cost": 3,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-hulk-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "Red Onslaught",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-onslaught.webp?v=1142"
+            },
+            {
+                "name": "Red Wolf Fractured Frontier",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/red-wolf-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "Redwing",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/redwing.webp?v=1142"
+            },
+            {
+                "name": "Rocket And Groot",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rocket-and-groot.webp?v=1142"
+            },
+            {
+                "name": "Rogue Scion Of Division",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rogue-scion-of-division.webp?v=1142"
+            },
+            {
+                "name": "Sage",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sage.webp?v=1142"
+            },
+            {
+                "name": "Sam Wilson Captain America",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sam-wilson-captain-america.webp?v=1142"
+            },
+            {
+                "name": "Scarlet Spider",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-spider.webp?v=1142"
+            },
+            {
+                "name": "Scarlet Witch Queen Of Chaos",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scarlet-witch-queen-of-chaos.webp?v=1142"
+            },
+            {
+                "name": "Scorn",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scorn.webp?v=1142"
+            },
+            {
+                "name": "Scorpion Brand New Day",
+                "cost": 0,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scorpion-brand-new-day.webp?v=1142"
+            },
+            {
+                "name": "Scream",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/scream.webp?v=1142"
+            },
+            {
+                "name": "Selene Horseman Of Famine",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/selene-horseman-of-famine.webp?v=1142"
+            },
+            {
+                "name": "Sersi",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sersi.webp?v=1142"
+            },
+            {
+                "name": "Shadowlands Daredevil",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shadowlands-daredevil.webp?v=1142"
+            },
+            {
+                "name": "Shang-Chi, Master Of The Rings",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shang-chi-master-of-the-rings.webp?v=1142"
+            },
+            {
+                "name": "Shou-Lao The Undying",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shou-lao-the-undying.webp?v=1142"
+            },
+            {
+                "name": "Silver Sable",
+                "cost": 1,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/silver-sable.webp?v=1142"
+            },
+            {
+                "name": "Sinister Six",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sinister-six.webp?v=1142"
+            },
+            {
+                "name": "Sparky",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sparky.webp?v=1142"
+            },
+            {
+                "name": "Speed",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/speed.webp?v=1142"
+            },
+            {
+                "name": "Spider-Man Brand New Day",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man-brand-new-day.webp?v=1142"
+            },
+            {
+                "name": "Spider-Man Noir",
+                "cost": 4,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-man-noir.webp?v=1142"
+            },
+            {
+                "name": "Spider-Punk",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/spider-punk.webp?v=1142"
+            },
+            {
+                "name": "Star-Lord, Master Of The Sun",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/star-lord-master-of-the-sun.webp?v=1142"
+            },
+            {
+                "name": "Starbrand",
+                "cost": 3,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/starbrand.webp?v=1142"
+            },
+            {
+                "name": "Stardust",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stardust.webp?v=1142"
+            },
+            {
+                "name": "Storm Horseman Of Famine",
+                "cost": 3,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/storm-horseman-of-famine.webp?v=1142"
+            },
+            {
+                "name": "Strange Supreme",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/strange-supreme.webp?v=1142"
+            },
+            {
+                "name": "Stryfe",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stryfe.webp?v=1142"
+            },
+            {
+                "name": "Sub-Mariner",
+                "cost": 1,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sub-mariner.webp?v=1142"
+            },
+            {
+                "name": "Superior Iron Man",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/superior-iron-man.webp?v=1142"
+            },
+            {
+                "name": "Superior Spider-Man",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/superior-spider-man.webp?v=1142"
+            },
+            {
+                "name": "Surge",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/surge.webp?v=1142"
+            },
+            {
+                "name": "Surtur",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/surtur.webp?v=1142"
+            },
+            {
+                "name": "Symbiote Spider-Man",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/symbiote-spider-man.webp?v=1142"
+            },
+            {
+                "name": "Tarantula",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tarantula.webp?v=1142"
+            },
+            {
+                "name": "Techno-Organic Virus",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/techno-organic-virus.webp?v=1142"
+            },
+            {
+                "name": "Thaddeus Ross",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thaddeus-ross.webp?v=1142"
+            },
+            {
+                "name": "Thanos",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thanos.webp?v=1142"
+            },
+            {
+                "name": "Thanos Fractured Frontier",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thanos-fractured-frontier.webp?v=1142"
+            },
+            {
+                "name": "The Ancient One",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-ancient-one.webp?v=1142"
+            },
+            {
+                "name": "The Fallen One",
+                "cost": 5,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-fallen-one.webp?v=1142"
+            },
+            {
+                "name": "The Thing First Steps",
+                "cost": 5,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-thing-first-steps.webp?v=1142"
+            },
+            {
+                "name": "Thena",
+                "cost": 2,
+                "power": "0-1",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thena.webp?v=1142"
+            },
+            {
+                "name": "Toxin",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/toxin.webp?v=1142"
+            },
+            {
+                "name": "U.S. Agent",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/us-agent.webp?v=1142"
+            },
+            {
+                "name": "Vampire Enchantress",
+                "cost": 0,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vampire-enchantress.webp?v=1142"
+            },
+            {
+                "name": "Venus",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/venus.webp?v=1142"
+            },
+            {
+                "name": "Victoria Hand",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/victoria-hand.webp?v=1142"
+            },
+            {
+                "name": "Viv Vision",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/viv-vision.webp?v=1142"
+            },
+            {
+                "name": "War Machine",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/war-machine.webp?v=1142"
+            },
+            {
+                "name": "Warlock",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/warlock.webp?v=1142"
+            },
+            {
+                "name": "Weapon H",
+                "cost": 0,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/weapon-h.webp?v=1142"
+            },
+            {
+                "name": "Weapon X Wolverine",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/weapon-x-wolverine.webp?v=1142"
+            },
+            {
+                "name": "White Widow",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-widow.webp?v=1142"
+            },
+            {
+                "name": "Wiccan",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wiccan.webp?v=1142"
+            },
+            {
+                "name": "Wilson Fisk",
+                "cost": 5,
+                "power": "8+",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wilson-fisk.webp?v=1142"
+            },
+            {
+                "name": "Wolverine Horseman Of War",
+                "cost": 4,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wolverine-horseman-of-war.webp?v=1142"
+            },
+            {
+                "name": "Xorn",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/xorn.webp?v=1142"
+            },
+            {
+                "name": "Zombie Blade",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-blade.webp?v=1142"
+            },
+            {
+                "name": "Zombie Captain Marvel",
+                "cost": 4,
+                "power": "6-7",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-captain-marvel.webp?v=1142"
+            },
+            {
+                "name": "Zombie Galacti",
+                "cost": 0,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-galacti.webp?v=1142"
+            },
+            {
+                "name": "Zombie Mister Fantastic",
+                "cost": 2,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-mister-fantastic.webp?v=1142"
+            },
+            {
+                "name": "Zombie Scarlet Witch",
+                "cost": 3,
+                "power": "4-5",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-scarlet-witch.webp?v=1142"
+            },
+            {
+                "name": "Zombie Venom",
+                "cost": 3,
+                "power": "2-3",
+                "image_url": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/zombie-venom.webp?v=1142"
+            }
+        ]
+    }
+}
