@@ -1,0 +1,35 @@
+name: Daily Marvel Snap Cards Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天香港時間早上 8:00 自動執行
+  workflow_dispatch: # 允許你隨時在 GitHub 網頁手動觸發
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install cloudscraper beautifulsoup4 requests
+
+      - name: Run scraper script
+        run: |
+          python scrape_zone.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+
+          git add marvel_snap_cards.json
+          git diff --quiet && git diff --cached --quiet || (git commit -m "Auto-update Marvel Snap cards JSON [skip ci]" && git push)
